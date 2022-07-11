@@ -21,7 +21,13 @@ ROS, Mavros, Mavlink를 통한 로봇과 Computer간의 통신 및 자율주행�
 ## Dev Stack
 Drone
 <img src="https://img.shields.io/badge/ROS-blue?style=plastic&logo=ROS&logoColor=#22314E"/>
+<img src="https://img.shields.io/badge/ROS-mavros-yellow"/>
+<img src="https://img.shields.io/badge/mav-link-yellow"/>
 
+<img src="https://img.shields.io/badge/ROS-mavros-yellow"/>
+<img src="https://img.shields.io/badge/ROS-mavros-yellow"/>
+<img src="https://img.shields.io/badge/ROS-mavros-yellow"/>
+<img src="https://img.shields.io/badge/ROS-mavros-yellow"/>
 - MavROS
 - Gazebo
 - Airsim
@@ -38,9 +44,11 @@ Deep learning
 - 
 
 etc
-- git
-- Python
-- C++
+<img src="https://img.shields.io/badge/git-black?style=plastic&logo=Git&logoColor=#F05032"/>
+<img src="https://img.shields.io/badge/python-purple?style=plastic&logo=Python&logoColor=#3776AB"/>
+<img src="https://img.shields.io/badge/c++-blue?style=plastic&logo=C++&logoColor=#00599C"/>
+
+
 
 - Opencv
 - gstreamer
