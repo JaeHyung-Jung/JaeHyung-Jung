@@ -1,5 +1,5 @@
 # Drone Auto-pilot system developer
-26살에 개발자를 시작했습니다
+26살에 개발자의 길을 걷게 되었습니다.
 
 딥러닝과 드론 자율주행에 흥미를 느껴 공부하고 있으며 획기적인 드론 자율주행 시스템을 개발하기 위해 쉬지 않고 배우고 있습니다. <br>
 
@@ -19,6 +19,33 @@ ROS, Mavros, Mavlink를 통한 로봇과 Computer간의 통신 및 자율주행�
 
 ---
 ## Dev Tools 
+Drone
+#22314E ROS
+- MavROS
+- Gazebo
+- Airsim
+- Ardupilot
+- Opencv
+- gstreamer
+
+Sensor
+- Lidar, IMU
+
+Deep learning
+- Pytorch
+- tensorflow
+- 
+
+etc
+- git
+- Python
+- C++
+
+- Opencv
+- gstreamer
+
+Sensor
+- Lidar, IMU
 
 
 
