@@ -10,7 +10,7 @@
 
 <div align="center"> 🎓 : Kumoh National Institute of Technology majoring in Computer Engineering <div> <br>
 
-<div align="center"> 🏢 : [SierraBASE](https://www.sierrabase.co.kr/) <div>
+<div align="center" onclick="location.href='https://www.sierrabase.co.kr';"> 🏢 : SierraBASE </div>
 
 ---
 <h2> <div align="center">🛠Skills<div> </h2> 
