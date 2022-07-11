@@ -4,13 +4,13 @@
 ###### <div align="center">ROS를 통한 로봇과 Computer간의 통신, 자율주행을 위한 SLAM기술을 분석하고 개발하고 있습니다.</div>
 ###### <div align="center">열정과 끈기, 뚝심이 있는 개발자입니다. 저에 대해 궁금하신 점이 있다면, 연락해주세요!</div>
 
+<div align="center" onclick="location.href='https://www.sierrabase.co.kr';"> 🏢 : SierraBASE <div> <br>
+
 <div align="center"> 📞 : +82 10-5351-5581 <div> <br>
 
 <div align="center"> 📩 : wogud5581@naver.com <div> <br>
 
-<div align="center"> 🎓 : Kumoh National Institute of Technology majoring in Computer Engineering <div> <br>
-
-<div align="center" onclick="location.href='https://www.sierrabase.co.kr';"> 🏢 : SierraBASE </div>
+<div align="center"> 🎓 : Kumoh National Institute of Technology majoring in Computer Engineering <div> 
 
 ---
 <h2> <div align="center">🛠Skills<div> </h2> 
@@ -37,3 +37,6 @@
 <img src="https://img.shields.io/badge/git-black?style=plastic&logo=Git&logoColor=#F05032"/>
 <img src="https://img.shields.io/badge/python-purple?style=plastic&logo=Python&logoColor=#3776AB"/>
 <img src="https://img.shields.io/badge/c++-blue?style=plastic&logo=C++&logoColor=#00599C"/>
+
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeHyung-Jung)](https://github.com/anuraghazra/github-readme-stats)
