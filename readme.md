@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/-IMU-white"/>
 
 <h4><div align="center">Deep learning<div></h4>
-<img src="https://img.shields.io/badge/Opencv-blue?style=plastic&logo=OpenCV&logoColor=#5C3EE8"/>
+<img src="https://img.shields.io/badge/Pytorch-blue?style=plastic&logo=PyTorch&logoColor=#EE4C2C"/>
 <img src="https://img.shields.io/badge/Tensorflow-orange?style=plastic&logo=TensorFlow&logoColor=#FF6F00"/>
 <img src="https://img.shields.io/badge/Keras-red?style=plastic&logo=Keras&logoColor=#D00000"/>
 
