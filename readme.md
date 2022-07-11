@@ -2,7 +2,7 @@
 ###### <div align="center">딥러닝과 드론 자율주행에 흥미를 느껴 공부하였으며 26살에 개발자의 길을 걷게 되었습니다.</div>
 ###### <div align="center">획기적인 드론 자율주행 시스템을 개발하기 위해 쉬지 않고 배우고 있습니다.</div>
 ###### <div align="center">ROS를 통한 로봇과 Computer간의 통신, 자율주행을 위한 SLAM기술을 분석하고 개발하고 있습니다.</div>
-###### <div align="center">열정과 끈기, 뚝심이 있는 개발자입니다. 저에 대해 궁금하신 점이 있다면, 연락해주세요!</div>
+###### <div align="center">열정과 끈기, 뚝심이 있는 개발자입니다. 저에 대해 궁금하신 점이 있다면, 연락주세요!</div>
 
 <div align="center" onclick="location.href='https://www.sierrabase.co.kr';"> 🏢 : SierraBASE <div> <br>
 
