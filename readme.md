@@ -40,6 +40,6 @@
 
 <br>
 
-###### 🏆 한국정보기술학회 우수논문상 수상 (논문 제목 : 개인 안전 장비 착용 확인 시스템 개발, 2022년 6월 3일)
+###### 🏆 한국정보기술학회 우수논문상 수상 (논문 제목 : 개인 안전 장비 착용 확인 시스템 개발, 날짜 : 2022년 6월 3일, Link : [DBPia](http://ki-it.com/_common/do.php?a=full&b=22))
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeHyung-Jung)](https://github.com/anuraghazra/github-readme-stats)
