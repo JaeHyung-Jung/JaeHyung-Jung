@@ -1,10 +1,10 @@
 ## <div align="center">Drone autopilot system developer</div>
 ###### <div align="center">딥러닝과 드론 자율주행에 흥미를 느껴 공부하였으며 26살에 개발자의 길을 걷게 되었습니다.</div>
-###### <div align="center">획기적인 드론 자율주행 시스템을 개발하기 위해 쉬지 않고 배우고 있습니다.</div>
-###### <div align="center">ROS를 이용한 드론과 컴퓨터간의 통신, 자율주행을 위한 SLAM기술을 분석하고 개발하고 있습니다.</div>
-###### <div align="center">열정과 끈기, 뚝심이 있는 개발자입니다. 저에 대해 궁금하신 점이 있다면, 연락주세요!</div>
+###### <div align="center">ROS를 이용한 드론과 컴퓨터간의 통신, 자율주행을 위한 SLAM기술을 분석하고 연구,개발하고 있습니다.</div>
+###### <div align="center">개발자에게 가장 중요한 덕목은 열정과 끈기라 생각하며 획기적인 드론 자율주행 시스템 개발을 목표로 쉬지 않고 배우고 있습니다.</div>
+###### <div align="center">저에게 전할 말이 있으시면 아래 연락처를 이용해주세요. </div>
 
-<div align="center" onclick="location.href='https://www.sierrabase.co.kr';"> 🏢 : SierraBASE <div> <br>
+<div align="center" onclick="location.href='https://www.sierrabase.co.kr';"> 🏢 : SierraBASE (jhjung@sierrabase.co.kr) <div> <br>
 
 <div align="center"> 📞 : +82 10-5351-5581 <div> <br>
 
