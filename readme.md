@@ -11,6 +11,7 @@
 <div align="center"> 📩 : wogud5581@naver.com <div> <br>
 
 <div align="center"> 🎓 : Kumoh National Institute of Technology majoring in Computer Engineering <div> 
+<div align="center"> 🎒 : Master's Course in Kepco International Nuclear Graduate School <div> 
 
 ---
 <h2> <div align="center">🛠Skills & 🏆Awards</div> </h2> 
