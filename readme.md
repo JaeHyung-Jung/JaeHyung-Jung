@@ -10,7 +10,7 @@
 🎒 : Master's Course in Kepco International Nuclear Graduate School 
 
 ---
-<div align="center">
+
 #### 🛠Skills
 <img src="https://img.shields.io/badge/ROS-blue?style=plastic&logo=ROS&logoColor=#22314E"/>
 <img src="https://img.shields.io/badge/Pytorch-blue?style=plastic&logo=PyTorch&logoColor=#EE4C2C"/>
@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/git-black?style=plastic&logo=Git&logoColor=#F05032"/>
 <img src="https://img.shields.io/badge/python-purple?style=plastic&logo=Python&logoColor=#3776AB"/>
 <img src="https://camo.githubusercontent.com/c36ce371f52f902db5109ffaf26630295c7ff5f3355b2442fcbc244fbf97782a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3143353039433f7374796c653d666c61742d737175617265266c6f676f3d4325324225324226266c6f676f436f6c6f723d7768697465"/>
-</div>
+
 ---
 
 #### 🏆Awards
