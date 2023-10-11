@@ -3,7 +3,7 @@
 ### 열정, 끈기, 성취
 
 ### Interest
-- Autonomous-driving, SLAM, Lidar, Sensor_fusion, Optimization, Transformation, 3D, Localization, Obstacle_avoidance
+- Autonomous-driving, SLAM, Lidar, Sensor_fusion, Optimization, Transformation, 3D, Localization, Obstacle_avoidance, AI
 ---
 
 #### Contacts 
