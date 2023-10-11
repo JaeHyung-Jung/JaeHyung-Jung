@@ -15,8 +15,8 @@
 ---
 
 #### 📞 Contacts 
-- :mailbox:(jhjung@sierrabase.co.kr)
-- :iphone:(+82 10-5351-5581) 
+- :mailbox: jhjung@sierrabase.co.kr 
+- :iphone: +82 10-5351-5581 
 
 ---
 
@@ -34,8 +34,8 @@
 ---
 
 #### :school: Education
-- 🎓[Bachelor's degree](https://www.kumoh.ac.kr/ko/index.do) 
-- :book:[Master's course](https://www.kings.ac.kr/home.do)
+- 🎓 [Bachelor's degree](https://www.kumoh.ac.kr/ko/index.do) 
+- :book: [Master's course](https://www.kings.ac.kr/home.do)
 
 </div>
 
