@@ -4,11 +4,13 @@
 ###### <div align="center">개발자에게 가장 중요한 덕목은 열정과 인내라 생각하며 획기적인 드론 자율주행 시스템 개발을 목표로 하고 있습니다.</div>
 ###### <div align="center">저에게 전할 말이 있으시면 아래 연락처를 이용해주세요. </div>
 ---
+
 <div align="center" onclick="location.href='https://www.sierrabase.co.kr';"> 🏢 : SierraBASE (jhjung@sierrabase.co.kr) <div> <br>
 <div align="center"> 📞 : +82 10-5351-5581 <div> <br>
 <div align="center"> 📩 : wogud5581@naver.com <div> <br>
 <div align="center"> 🎓 : Kumoh National Institute of Technology majoring in Computer Engineering <div> 
 <div align="center"> 🎒 : Master's Course in Kepco International Nuclear Graduate School <div> 
+  
 ---
 <h2> <div align="center">🛠Skills & 🏆Awards</div> </h2> 
 <h4><div align="center">Drone<div></h4>
