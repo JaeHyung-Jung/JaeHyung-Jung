@@ -13,7 +13,7 @@
   
 ---
 <h2> <div align="center">🛠Skills & 🏆Awards</div> </h2> 
-<h4><div align="center">Drone<div></h4>
+### Drone
 <img src="https://img.shields.io/badge/ROS-blue?style=plastic&logo=ROS&logoColor=#22314E"/>
 <img src="https://img.shields.io/badge/mav-ros-yellow"/>
 <img src="https://img.shields.io/badge/mav-link-yellow"/>
