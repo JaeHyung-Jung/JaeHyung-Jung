@@ -2,6 +2,7 @@
 
 ---
 
+#### Contacts 
 <div align="center" onclick="location.href='https://www.sierrabase.co.kr';"> 🏢 : SierraBASE (jhjung@sierrabase.co.kr) <div> <br>
 <div align="center"> 📞 : +82 10-5351-5581 <div> <br>
 <div align="center"> 📩 : wogud5581@naver.com <div> <br>
@@ -10,7 +11,7 @@
 
 ---
 
-<h4>🛠Skills</h4> 
+#### 🛠Skills
 <img src="https://img.shields.io/badge/ROS-blue?style=plastic&logo=ROS&logoColor=#22314E"/>
 <img src="https://img.shields.io/badge/Pytorch-blue?style=plastic&logo=PyTorch&logoColor=#EE4C2C"/>
 <img src="https://img.shields.io/badge/Tensorflow-orange?style=plastic&logo=TensorFlow&logoColor=#FF6F00"/>
@@ -23,7 +24,7 @@
 
 #### 🏆Awards
   - 한국정보기술학회 우수논문상(`22.6.3) : [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11082633)   
-  - KIT Engineering Fair 2022 금상: SAS(Safety Alert System), `22.12.9
+  - KIT Engineering Fair 2022 금상(`22.12.9): SAS(Safety Alert System)
 
 ---
 
