@@ -4,7 +4,6 @@
 
 ### Interest
 - Autonomous-driving, SLAM, Lidar, Sensor_fusion, Optimization, Transformation, 3D, Localization, Obstacle_avoidance
-
 ---
 
 #### Contacts 
@@ -13,7 +12,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
         
 🏢 SierraBASE(jhjung@sierrabase.co.kr) 📞 +82 10-5351-5581 
-🎓[KIT_Bachelor's degree](https://www.kumoh.ac.kr/ko/index.do) 🎒[Kings_Master's_course](https://www.kings.ac.kr/home.do)
 
 #### 🛠Skills
 <img src="https://img.shields.io/badge/ROS-blue?style=plastic&logo=ROS&logoColor=#22314E"/><img src="https://img.shields.io/badge/Pytorch-blue?style=plastic&logo=PyTorch&logoColor=#EE4C2C"/> <img src="https://img.shields.io/badge/Tensorflow-orange?style=plastic&logo=TensorFlow&logoColor=#FF6F00"/> 
@@ -29,5 +27,8 @@
   - KIT Engineering Fair 2022 금상(`22.12.9): SAS(Safety Alert System)
 
 ---
+
+- 🎓[KIT_Bachelor's degree](https://www.kumoh.ac.kr/ko/index.do) 
+- 🎒[Kings_Master's_course](https://www.kings.ac.kr/home.do)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeHyung-Jung)](https://github.com/anuraghazra/github-readme-stats)
