@@ -1,8 +1,5 @@
-## <div align="center">Drone autopilot system developer</div>
-###### <div align="center">인공지능과 딥러닝을 공부하였고 현재는 드론의 자율주행을 개발하는 길을 걷고 있습니다.</div>
-###### <div align="center">ROS를 이용한 드론과 컴퓨터간의 통신, 자율주행을 위한 SLAM기술을 분석하고 연구,개발하고 있습니다.</div>
-###### <div align="center">개발자에게 가장 중요한 덕목은 열정과 인내라 생각하며 획기적인 드론 자율주행 시스템 개발을 목표로 하고 있습니다.</div>
-###### <div align="center">저에게 전할 말이 있으시면 아래 연락처를 이용해주세요. </div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeHyung-Jung%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ---
 
 <div align="center" onclick="location.href='https://www.sierrabase.co.kr';"> 🏢 : SierraBASE (jhjung@sierrabase.co.kr) <div> <br>
