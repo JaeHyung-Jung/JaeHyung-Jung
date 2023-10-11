@@ -22,7 +22,7 @@
 ---
 
 <h4>🏆Awards</h4>
-- 한국정보기술학회 우수논문상(`22.6.3) : [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11082633) 
+- 한국정보기술학회 우수논문상(`22.6.3) : [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11082633)   
 - KIT Engineering Fair 2022 금상: SAS(Safety Alert System), `22.12.9
 
 ---
