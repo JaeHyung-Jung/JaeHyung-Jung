@@ -22,8 +22,8 @@
 ---
 
 <h4>🏆Awards</h4>
-- [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11082633) 🏆한국정보기술학회 우수논문상 수상 (`22.6.3)
-- 🏆KIT Engineering Fair 2022 금상(금오공과대학교 총장상)수상 (작품명 : SAS(Safety Alert System), 날짜 : 2022년 12월 9일)
+- 한국정보기술학회 우수논문상(`22.6.3) : [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11082633) 
+- KIT Engineering Fair 2022 금상: SAS(Safety Alert System), `22.12.9
 
 ---
 
