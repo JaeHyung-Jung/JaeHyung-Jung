@@ -28,7 +28,7 @@
 
 ---
 
-- 🎓[KIT_Bachelor's degree](https://www.kumoh.ac.kr/ko/index.do) 
-- 🎒[Kings_Master's_course](https://www.kings.ac.kr/home.do)
+- 🎓[KIT:Bachelor's degree](https://www.kumoh.ac.kr/ko/index.do) 
+- 🎒[Kings:Master's_course](https://www.kings.ac.kr/home.do)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeHyung-Jung)](https://github.com/anuraghazra/github-readme-stats)
