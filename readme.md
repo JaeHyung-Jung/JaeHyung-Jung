@@ -9,10 +9,8 @@
 ---
 
 #### Contacts 
-- <img 
-        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhjung@sierrabase.co.kr"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/> jhjung@sierrabase.co.kr 
-- 📞 +82 10-5351-5581 
+- :mailbox:(jhjung@sierrabase.co.kr)
+- 📞(+82 10-5351-5581) 
 
 #### 🛠Skills
 <img src="https://img.shields.io/badge/ROS-blue?style=plastic&logo=ROS&logoColor=#22314E"/><img src="https://img.shields.io/badge/Pytorch-blue?style=plastic&logo=PyTorch&logoColor=#EE4C2C"/>
