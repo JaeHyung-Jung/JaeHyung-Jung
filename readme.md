@@ -1,15 +1,17 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeHyung-Jung%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 열정, 끈기, 성취
+
 ### Interest
 - Autonomous-driving, SLAM, Lidar, Sensor_fusion, Optimization, Transformation, 3D, Localization, Obstacle_avoidance
 
 ---
 
 #### Contacts 
-🏢 SierraBASE(jhjung@sierrabase.co.kr)
-📞 +82 10-5351-5581 
-📩 : wogud5581@naver.com 
+<img 
+        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhjung@sierrabase.co.kr"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+🏢 SierraBASE(jhjung@sierrabase.co.kr) 📞 +82 10-5351-5581 
 🎓 : Kumoh National Institute of Technology majoring in Computer Engineering
 🎒 : Master's Course in Kepco International Nuclear Graduate School 
 
