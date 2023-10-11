@@ -13,9 +13,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
         
 🏢 SierraBASE(jhjung@sierrabase.co.kr) 📞 +82 10-5351-5581 
-🎓 Kumoh National Institute of Technology majoring in Computer Engineering 🎒 Master's Course in Kepco International Nuclear Graduate School 
-
----
+🎓[KIT_Bachelor's degree](https://www.kumoh.ac.kr/ko/index.do) 🎒[Kings_Master's_course](https://www.kings.ac.kr/home.do)
 
 #### 🛠Skills
 <img src="https://img.shields.io/badge/ROS-blue?style=plastic&logo=ROS&logoColor=#22314E"/><img src="https://img.shields.io/badge/Pytorch-blue?style=plastic&logo=PyTorch&logoColor=#EE4C2C"/> <img src="https://img.shields.io/badge/Tensorflow-orange?style=plastic&logo=TensorFlow&logoColor=#FF6F00"/> 
