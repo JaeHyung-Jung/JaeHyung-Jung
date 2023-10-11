@@ -12,9 +12,7 @@
 ---
 
 #### 🛠Skills
-<img src="https://img.shields.io/badge/ROS-blue?style=plastic&logo=ROS&logoColor=#22314E"/>
-<img src="https://img.shields.io/badge/Pytorch-blue?style=plastic&logo=PyTorch&logoColor=#EE4C2C"/>
-<img src="https://img.shields.io/badge/Tensorflow-orange?style=plastic&logo=TensorFlow&logoColor=#FF6F00"/>
+<img src="https://img.shields.io/badge/ROS-blue?style=plastic&logo=ROS&logoColor=#22314E"/><img src="https://img.shields.io/badge/Pytorch-blue?style=plastic&logo=PyTorch&logoColor=#EE4C2C"/><img src="https://img.shields.io/badge/Tensorflow-orange?style=plastic&logo=TensorFlow&logoColor=#FF6F00"/>
 <img src="https://img.shields.io/badge/Keras-red?style=plastic&logo=Keras&logoColor=#D00000"/>
 <img src="https://img.shields.io/badge/git-black?style=plastic&logo=Git&logoColor=#F05032"/>
 <img src="https://img.shields.io/badge/python-purple?style=plastic&logo=Python&logoColor=#3776AB"/>
