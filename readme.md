@@ -1,16 +1,16 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeHyung-Jung%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### :fire:열정, :fist:끈기, :stars:성취
+### :fire:열정, :facepunch:끈기, :stars:성취
 
-#### Interest
+#### :dart:Interest
 - Autonomous-driving, SLAM, Lidar, Sensor_fusion, Optimization, Drone,   
   Transformation, 3D, Localization, Obstacle_avoidance, AI, Robot
   
 ---
 
-#### Contacts 
+#### 📞Contacts 
 - :mailbox:(jhjung@sierrabase.co.kr)
-- 📞(+82 10-5351-5581) 
+- :iphone:(+82 10-5351-5581) 
 
 #### 🛠Skills
 <img src="https://img.shields.io/badge/ROS-blue?style=plastic&logo=ROS&logoColor=#22314E"/> <img src="https://img.shields.io/badge/Pytorch-blue?style=plastic&logo=PyTorch&logoColor=#EE4C2C"/> <img src="https://img.shields.io/badge/Tensorflow-orange?style=plastic&logo=TensorFlow&logoColor=#FF6F00"/>  <img src="https://img.shields.io/badge/Keras-red?style=plastic&logo=Keras&logoColor=#D00000"/> <img src="https://img.shields.io/badge/git-black?style=plastic&logo=Git&logoColor=#F05032"/> <img src="https://img.shields.io/badge/python-purple?style=plastic&logo=Python&logoColor=#3776AB"/>
