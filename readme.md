@@ -8,6 +8,8 @@
 <div align="center"> 🎓 : Kumoh National Institute of Technology majoring in Computer Engineering <div> 
 <div align="center"> 🎒 : Master's Course in Kepco International Nuclear Graduate School <div> 
 
+---
+
 <h4>🛠Skills</h4> 
 <img src="https://img.shields.io/badge/ROS-blue?style=plastic&logo=ROS&logoColor=#22314E"/>
 <img src="https://img.shields.io/badge/Pytorch-blue?style=plastic&logo=PyTorch&logoColor=#EE4C2C"/>
@@ -21,5 +23,6 @@
 ###### 🏆 한국정보기술학회 우수논문상 수상 (논문 제목 : 개인 안전 장비 착용 확인 시스템 개발, 날짜 : 2022년 6월 3일, Link : [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11082633))
 ###### 🏆 KIT Engineering Fair 2022 금상(금오공과대학교 총장상)수상 (작품명 : SAS(Safety Alert System), 날짜 : 2022년 12월 9일)
 
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeHyung-Jung)](https://github.com/anuraghazra/github-readme-stats)
