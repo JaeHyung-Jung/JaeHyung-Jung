@@ -23,7 +23,7 @@
 
 <h4>🏆Awards</h4>
 <h6>🏆한국정보기술학회 우수논문상 수상 (논문 제목 : 개인 안전 장비 착용 확인 시스템 개발, 날짜 : 2022년 6월 3일, Link : [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11082633))</h6>
-<h7>🏆KIT Engineering Fair 2022 금상(금오공과대학교 총장상)수상 (작품명 : SAS(Safety Alert System), 날짜 : 2022년 12월 9일)</h7>
+<h6>🏆KIT Engineering Fair 2022 금상(금오공과대학교 총장상)수상 (작품명 : SAS(Safety Alert System), 날짜 : 2022년 12월 9일)</h6>
 
 ---
 
