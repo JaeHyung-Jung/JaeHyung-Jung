@@ -12,8 +12,8 @@
 <div align="center"> 🎒 : Master's Course in Kepco International Nuclear Graduate School <div> 
   
 ---
-<h2> <div align="center">🛠Skills & 🏆Awards</div> </h2> 
-### Drone
+<h2>🛠Skills & 🏆Awards </h2> 
+### Drone 
 <img src="https://img.shields.io/badge/ROS-blue?style=plastic&logo=ROS&logoColor=#22314E"/>
 <img src="https://img.shields.io/badge/mav-ros-yellow"/>
 <img src="https://img.shields.io/badge/mav-link-yellow"/>
