@@ -3,11 +3,11 @@
 ---
 
 #### Contacts 
-<div align="center" onclick="location.href='https://www.sierrabase.co.kr';"> 🏢 : SierraBASE (jhjung@sierrabase.co.kr) <div> <br>
-<div align="center"> 📞 : +82 10-5351-5581 <div> <br>
-<div align="center"> 📩 : wogud5581@naver.com <div> <br>
-<div align="center"> 🎓 : Kumoh National Institute of Technology majoring in Computer Engineering <div> 
-<div align="center"> 🎒 : Master's Course in Kepco International Nuclear Graduate School <div> 
+🏢 SierraBASE(jhjung@sierrabase.co.kr)
+📞 +82 10-5351-5581 
+📩 : wogud5581@naver.com 
+🎓 : Kumoh National Institute of Technology majoring in Computer Engineering
+🎒 : Master's Course in Kepco International Nuclear Graduate School 
 
 ---
 
