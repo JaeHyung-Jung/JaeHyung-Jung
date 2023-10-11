@@ -19,9 +19,11 @@
 <img src="https://img.shields.io/badge/python-purple?style=plastic&logo=Python&logoColor=#3776AB"/>
 <img src="https://camo.githubusercontent.com/c36ce371f52f902db5109ffaf26630295c7ff5f3355b2442fcbc244fbf97782a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3143353039433f7374796c653d666c61742d737175617265266c6f676f3d4325324225324226266c6f676f436f6c6f723d7768697465"/>
 
+---
+
 <h4>🏆Awards</h4>
 <h6>🏆한국정보기술학회 우수논문상 수상 (논문 제목 : 개인 안전 장비 착용 확인 시스템 개발, 날짜 : 2022년 6월 3일, Link : [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11082633))</h6>
-###### 🏆 KIT Engineering Fair 2022 금상(금오공과대학교 총장상)수상 (작품명 : SAS(Safety Alert System), 날짜 : 2022년 12월 9일)
+<h8>🏆KIT Engineering Fair 2022 금상(금오공과대학교 총장상)수상 (작품명 : SAS(Safety Alert System), 날짜 : 2022년 12월 9일)</h8>
 
 ---
 
