@@ -7,35 +7,17 @@
 <div align="center"> 📩 : wogud5581@naver.com <div> <br>
 <div align="center"> 🎓 : Kumoh National Institute of Technology majoring in Computer Engineering <div> 
 <div align="center"> 🎒 : Master's Course in Kepco International Nuclear Graduate School <div> 
-  
----
-<h2>🛠Skills & 🏆Awards </h2> 
-### Drone 
+
+<h2>🛠Skills</h2> 
 <img src="https://img.shields.io/badge/ROS-blue?style=plastic&logo=ROS&logoColor=#22314E"/>
-<img src="https://img.shields.io/badge/mav-ros-yellow"/>
-<img src="https://img.shields.io/badge/mav-link-yellow"/>
-<img src="https://img.shields.io/badge/Gazebo-orange?style=plastic&logo=GAZEBO&logoColor=#22314E"/>
-<img src="https://img.shields.io/badge/Airsim-skyblue?style=plastic&logo=Airsim&logoColor=#22314E"/>
-<img src="https://img.shields.io/badge/-ardupilot-black"/>
-<img src="https://img.shields.io/badge/Opencv-blue?style=plastic&logo=OpenCV&logoColor=#5C3EE8"/>
-<img src="https://img.shields.io/badge/-gstreamer-green"/>
-
-<h4>Drone Sensor</h4>
-<img src="https://img.shields.io/badge/Velodyne-Lidar-purple"/>
-<img src="https://img.shields.io/badge/-IMU-white"/>
-
-<h4><div align="center">Deep learning<div></h4>
 <img src="https://img.shields.io/badge/Pytorch-blue?style=plastic&logo=PyTorch&logoColor=#EE4C2C"/>
 <img src="https://img.shields.io/badge/Tensorflow-orange?style=plastic&logo=TensorFlow&logoColor=#FF6F00"/>
 <img src="https://img.shields.io/badge/Keras-red?style=plastic&logo=Keras&logoColor=#D00000"/>
-
-<h4><div align="center">etc<div></h4>
 <img src="https://img.shields.io/badge/git-black?style=plastic&logo=Git&logoColor=#F05032"/>
 <img src="https://img.shields.io/badge/python-purple?style=plastic&logo=Python&logoColor=#3776AB"/>
 <img src="https://camo.githubusercontent.com/c36ce371f52f902db5109ffaf26630295c7ff5f3355b2442fcbc244fbf97782a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3143353039433f7374796c653d666c61742d737175617265266c6f676f3d4325324225324226266c6f676f436f6c6f723d7768697465"/>
 
-<br>
-
+<h5>🏆Awards</h5>
 ###### 🏆 한국정보기술학회 우수논문상 수상 (논문 제목 : 개인 안전 장비 착용 확인 시스템 개발, 날짜 : 2022년 6월 3일, Link : [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11082633))
 ###### 🏆 KIT Engineering Fair 2022 금상(금오공과대학교 총장상)수상 (작품명 : SAS(Safety Alert System), 날짜 : 2022년 12월 9일)
 
