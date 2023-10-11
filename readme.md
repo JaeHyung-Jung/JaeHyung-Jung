@@ -35,7 +35,7 @@
 
 #### :school: Education
 - 🎓[Bachelor's degree](https://www.kumoh.ac.kr/ko/index.do) 
-- :book:[Master's_course](https://www.kings.ac.kr/home.do)
+- :book:[Master's course](https://www.kings.ac.kr/home.do)
 
 </div>
 
