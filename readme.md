@@ -3,8 +3,8 @@
 ### :fire:열정, :fist:끈기, :stars:성취
 
 #### Interest
-- Autonomous-driving SLAM Lidar Sensor_fusion Optimization Drone   
-  Transformation 3D Localization Obstacle_avoidance AI Robot
+- Autonomous-driving, SLAM, Lidar, Sensor_fusion, Optimization, Drone,   
+  Transformation, 3D, Localization, Obstacle_avoidance, AI, Robot
   
 ---
 
