@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Opencv-blue?style=plastic&logo=OpenCV&logoColor=#5C3EE8"/>
 <img src="https://img.shields.io/badge/-gstreamer-green"/>
 
-<h4><div align="center">Drone Sensor<div></h4>
+<h4>Drone Sensor</h4>
 <img src="https://img.shields.io/badge/Velodyne-Lidar-purple"/>
 <img src="https://img.shields.io/badge/-IMU-white"/>
 
