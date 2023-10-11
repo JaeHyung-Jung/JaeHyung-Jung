@@ -1,11 +1,12 @@
-<div align="center">
+<div align="left">
   
 ### :fire:열정  :facepunch:끈기  :stars:성취 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeHyung-Jung%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
 
 ---
 
+<div align="center">
 #### :dart: Interest
 - Autonomous-driving, SLAM, Lidar, Sensor_fusion, Optimization, Drone,   
   Transformation, 3D, Localization, Obstacle_avoidance, AI, Robot
@@ -35,4 +36,12 @@
 - 🎓[Bachelor's degree](https://www.kumoh.ac.kr/ko/index.do) 
 - :book:[Master's_course](https://www.kings.ac.kr/home.do)
 
---- 
+</div>
+
+---
+
+<div align="right">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeHyung-Jung%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
