@@ -21,11 +21,10 @@
 ---
 
 #### 🛠 Skills
+![Qt 5.15.2](https://img.shields.io/badge/Qt-5.15.2-green.svg)
 <img src="https://img.shields.io/badge/ROS-blue?style=plastic&logo=ROS&logoColor=#22314E"/> <img src="https://img.shields.io/badge/git-black?style=plastic&logo=Git&logoColor=#F05032"/> <img src="https://img.shields.io/badge/python-purple?style=plastic&logo=Python&logoColor=#3776AB"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-blue?style=plastic&logo=PyTorch&logoColor=#EE4C2C"/> <img src="https://img.shields.io/badge/Tensorflow-orange?style=plastic&logo=TensorFlow&logoColor=#FF6F00"/>  <img src="https://img.shields.io/badge/Keras-red?style=plastic&logo=Keras&logoColor=#D00000"/> 
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a> 
-![Qt 5.15.2](https://img.shields.io/badge/Qt-5.15.2-green.svg)
-
 ---
 
 #### 🏆 Awards
